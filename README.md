@@ -1,4 +1,4 @@
-![music for plants](./plants.jpg)
+Working on environmental flow modeling at Berkeley Lab.
 
-* https://ilhanozgenxian.com
-* gemini://soviet.circumlunar.space/ilhan
+(w) https://eesa.lbl.gov
+(w) https://ilhanozgenxian.com
