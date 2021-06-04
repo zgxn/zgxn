@@ -1,4 +1,5 @@
-Working on environmental flow modeling at Berkeley Lab.
 
-(w) https://eesa.lbl.gov
-(w) https://ilhanozgenxian.com
+Working on environmental flow modeling at Berkeley Lab:
+
+* https://eesa.lbl.gov
+* https://ilhanozgenxian.com
